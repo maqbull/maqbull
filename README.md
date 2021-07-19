@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)][instagram]
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
 [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:maqboolraza4@gmail.com)
-[![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][facebook]
+[![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=facebook)][facebook]
 <br />
 
 ---
